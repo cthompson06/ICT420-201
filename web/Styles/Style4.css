@@ -1,0 +1,88 @@
+.html {
+  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Open Sans', sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+
+.heading {
+  color: red;
+  width: 500px;
+  border: 1px solid black;
+  font-size: 60px;
+  text-align: center;
+  background-color: blue;
+}
+
+.Opening {
+    color: blue;
+    width: 500px;
+    border: 1px solid black;
+    font-size: 30px;
+    text-align: left;
+    line-height: 5;
+}
+
+  .middle {
+      color: black;
+      width: 500px;
+      border: 1px solid black;
+      font-size: 60px;
+      text-align: center;
+      background-color: red
+}
+
+li {
+    color: blue;
+    width: 500px;
+    font-size: 30px;
+    text-align: left;
+}
+
+h1 {
+    color: Yellow;
+    background-color: blue;
+    width: 500px;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px black;
+}
+
+h2 {
+    color: blue;
+    width: 500px;
+    font-size: 30px;
+    text-align: left;
+}
+
+h3 {
+    color: red;
+    width: 500px;
+    font-size: 30px;
+    text-align: left;
+}
+
+h4 {
+    color: green;
+    width: 500px;
+    font-size: 30px;
+    text-align: left;
+}
+
+html {
+  background-color: grey;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+}
